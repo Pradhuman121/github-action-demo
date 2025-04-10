@@ -29,5 +29,3 @@ jobs:
     - run: npm install 
     - run: npm update 
     - run: CI=false npm run build --if-present
-      env: 
-        REACT_APP_API_KEY: ${{ secrets.REACT_APP_API_KEY }}
