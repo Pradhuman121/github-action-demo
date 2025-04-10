@@ -21,7 +21,7 @@ export default function Home() {
             .
           </li>
           <li className="tracking-[-.01em]">
-            Get set go ahead in the wavy.
+            Checking the code .
           </li>
         </ol>
 
